@@ -8,3 +8,7 @@
   font-weight: 400;
   text-decoration: none;
 }
+
+html {
+  scroll-behavior: smooth; /** Scroll suave com link internos*/
+}
