@@ -1,0 +1,47 @@
+footer {
+  padding: 3.438rem 7.5rem 2.813rem 7.5rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #f9f9f9;
+}
+footer figure {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+footer figure img {
+  width: 2.188rem;
+  height: 2.424rem;
+}
+
+footer figure h3 {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  color: #161212;
+  font-weight: 500;
+}
+
+footer div {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 2.688rem;
+}
+
+footer div figure {
+  background-color: #f4d9dc;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+footer div figure img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
