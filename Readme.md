@@ -16,7 +16,12 @@
 O que eu aprendi e coloquei em prática, com o desenvolvimento dessa landing page:
  - Divisão do html (header, nav, main e footer);
  - Utilização de fontes externas :link: ([Poppins](https://fonts.google.com/specimen/Poppins));
- - Aprendi a fazer um scroll suave com apenas utilizando um recurso própio do html (``scroll-behavior: smooth;``);
+ - Aprendi a fazer um scroll suave com apenas utilizando um recurso própio do html 
+ ```
+html{
+  scroll-behavior: smooth;
+}
+```
  - Flex-box.
 
 ## :page_facing_up: Requisitos
